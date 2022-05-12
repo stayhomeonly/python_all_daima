@@ -1,0 +1,61 @@
+[ {
+  "uid" : "9172f08af48994c6",
+  "name" : "test_02_fengxing",
+  "time" : {
+    "start" : 1643361153510,
+    "stop" : 1643361156513,
+    "duration" : 3003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d0376efb7926d16",
+  "name" : "test_01_baili",
+  "time" : {
+    "start" : 1643361150488,
+    "stop" : 1643361153502,
+    "duration" : 3014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d713a48fe190928",
+  "name" : "test_01_get_token1[caseinfo2]",
+  "time" : {
+    "start" : 1643361150351,
+    "stop" : 1643361150460,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "750bb0df5335069",
+  "name" : "test_01_get_token1[caseinfo1]",
+  "time" : {
+    "start" : 1643361150280,
+    "stop" : 1643361150349,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9ca76f3a079a21e",
+  "name" : "test_01_get_token1[caseinfo0]",
+  "time" : {
+    "start" : 1643361150185,
+    "stop" : 1643361150277,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c40a73cd1cf01d02",
+  "name" : "test_02_edit_flag[caseinfo0]",
+  "time" : {
+    "start" : 1643361150469,
+    "stop" : 1643361150469,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

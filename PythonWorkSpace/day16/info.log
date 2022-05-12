@@ -1,0 +1,26 @@
+2021-12-07 11:59:15,539-[logger01.py - 56]-WARNING:waring级别以上的日志信息
+2021-12-07 11:59:15,539-[logger01.py - 57]-ERROR:error级别以上的日志信息
+2021-12-07 12:01:12,245-[log_utils.py - 50]-WARNING:waring级别以上的日志信息
+2021-12-07 12:01:12,246-[log_utils.py - 51]-ERROR:error级别以上的日志信息
+2021-12-07 12:34:39,387-[log_utils.py - 46]-WARNING:waring级别以上的日志信息
+2021-12-07 12:34:39,387-[log_utils.py - 47]-ERROR:error级别以上的日志信息
+2021-12-07 12:34:41,362-[logger02.py - 18]-INFO:该方法异常
+2021-12-07 12:35:16,057-[log_utils.py - 46]-WARNING:waring级别以上的日志信息
+2021-12-07 12:35:16,057-[log_utils.py - 47]-ERROR:error级别以上的日志信息
+2021-12-07 12:35:18,190-[logger02.py - 15]-ERROR:该方法异常
+2021-12-07 12:35:18,190-[logger02.py - 16]-ERROR:invalid literal for int() with base 10: '10.0'
+Traceback (most recent call last):
+  File "D:/PythonWorkSpace/day16/logger02.py", line 12, in <module>
+    res = 50 / int(num)
+ValueError: invalid literal for int() with base 10: '10.0'
+2021-12-07 12:37:25,122-[log_utils.py - 46]-WARNING:waring级别以上的日志信息
+2021-12-07 12:37:25,122-[log_utils.py - 47]-ERROR:error级别以上的日志信息
+2021-12-07 12:37:31,840-[logger02.py - 15]-ERROR:该方法异常
+2021-12-07 12:37:31,840-[logger02.py - 16]-ERROR:division by zero
+Traceback (most recent call last):
+  File "D:/PythonWorkSpace/day16/logger02.py", line 12, in <module>
+    res = 50 / int(num)
+ZeroDivisionError: division by zero
+2021-12-07 12:38:43,541-[log_utils.py - 46]-WARNING:waring级别以上的日志信息
+2021-12-07 12:38:43,541-[log_utils.py - 47]-ERROR:error级别以上的日志信息
+2021-12-07 12:38:45,680-[logger02.py - 18]-INFO:该方法异常

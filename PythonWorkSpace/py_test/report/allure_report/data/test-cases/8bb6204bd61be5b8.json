@@ -1,0 +1,86 @@
+{
+  "uid" : "8bb6204bd61be5b8",
+  "name" : "test_login[case0]",
+  "fullName" : "test_py_03#test_login",
+  "historyId" : "c26c80e7e72b8335a674defd92ba0109",
+  "time" : {
+    "start" : 1639445439024,
+    "stop" : 1639445439025,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "class_scope",
+    "time" : {
+      "start" : 1639445439023,
+      "stop" : 1639445439023,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "de7ee410da5b841b",
+      "name" : "stdout",
+      "source" : "de7ee410da5b841b.txt",
+      "type" : "text/plain",
+      "size" : 111
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_py_03"
+  }, {
+    "name" : "host",
+    "value" : "FXDN-20170826XB"
+  }, {
+    "name" : "thread",
+    "value" : "9876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_py_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a123456\"}', 'exp': \"{'code': 9999, 'msg': '登录成功'}\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8bb6204bd61be5b8.json",
+  "parameterValues" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a123456\"}', 'exp': \"{'code': 9999, 'msg': '登录成功'}\"}" ]
+}

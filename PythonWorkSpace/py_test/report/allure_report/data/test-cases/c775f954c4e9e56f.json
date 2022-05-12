@@ -1,0 +1,96 @@
+{
+  "uid" : "c775f954c4e9e56f",
+  "name" : "test_login[case3]",
+  "fullName" : "test_py_03#test_login",
+  "historyId" : "22c940031f0dbfe93b92cff74b95365d",
+  "time" : {
+    "start" : 1639446796410,
+    "stop" : 1639446796411,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "class_scope",
+    "time" : {
+      "start" : 1639446796409,
+      "stop" : 1639446796409,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a543685af72e85fc",
+      "name" : "stdout",
+      "source" : "a543685af72e85fc.txt",
+      "type" : "text/plain",
+      "size" : 124
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_py_03"
+  }, {
+    "name" : "host",
+    "value" : "FXDN-20170826XB"
+  }, {
+    "name" : "thread",
+    "value" : "9588-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_py_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a1234567\"}', 'exp': \"{'code': 1003, 'msg': '用户名或密码错误'}\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6c15df9fab280938",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639445439050,
+        "stop" : 1639445439051,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c775f954c4e9e56f.json",
+  "parameterValues" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a1234567\"}', 'exp': \"{'code': 1003, 'msg': '用户名或密码错误'}\"}" ]
+}

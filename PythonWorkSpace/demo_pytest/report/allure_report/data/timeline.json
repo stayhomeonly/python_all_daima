@@ -1,0 +1,709 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-0G99AQ7G",
+    "children" : [ {
+      "name" : "16260-MainThread",
+      "children" : [ {
+        "name" : "test_01_get_token1[caseinfo0]",
+        "uid" : "a0fed0907887c01",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644324193963,
+          "stop" : 1644324195105,
+          "duration" : 1142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo1]",
+        "uid" : "7501017afa4821c3",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644324195154,
+          "stop" : 1644324195614,
+          "duration" : 460
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': None, 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo2]",
+        "uid" : "6fda2cce947d23e0",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644324195661,
+          "stop" : 1644324196083,
+          "duration" : 422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': None, 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_login",
+        "uid" : "e0ca75c28b08413f",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644324196181,
+          "stop" : 1644324197242,
+          "duration" : 1061
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_edit_flag[caseinfo0]",
+        "uid" : "7d1dcc7bc2e82228",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644324196091,
+          "stop" : 1644324196091,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '编辑标签接口', 'requests': {'method': 'post', 'url': 'https://api.weixin.qq.com/cgi-bin/tags/update', 'data': {'tag': {'id': 134, 'name': '广东人'}}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_02_fengxing",
+        "uid" : "aed030095949c922",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644324200318,
+          "stop" : 1644324203331,
+          "duration" : 3013
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_baili",
+        "uid" : "25b7791c410af32e",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644324197307,
+          "stop" : 1644324200311,
+          "duration" : 3004
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_login[caseinfo0]",
+        "uid" : "cdad5f5c9d837a4e",
+        "parentUid" : "ef7d3d88eebf34676df40ab646ba5a00",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644324197250,
+          "stop" : 1644324197251,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '登录接口', 'requests': {'method': 'post', 'url': 'http://47.107.116.139/phpwind/index.php?m=u&c=login&a=dorun', 'data': {'username': 'msxy', 'password': 'msxy', 'csrf——token': 'csrf_token', 'backurl': 'http://47.107.116.139/phpwind', 'invite': ''}, 'headers': {'Accept': 'applcation/json.text/javascript,/;q=0.01', 'X-Requestsed-With': 'XMLHttpRequests'}, 'validate': [{'eq': {'state:sucess': None}}]}}" ]
+      } ],
+      "uid" : "ef7d3d88eebf34676df40ab646ba5a00"
+    }, {
+      "name" : "13120-MainThread",
+      "children" : [ {
+        "name" : "test_01_baili",
+        "uid" : "af6b9fa4dd97b938",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644822881889,
+          "stop" : 1644822884903,
+          "duration" : 3014
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_login[caseinfo0]",
+        "uid" : "b5b91417f5200873",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644822881832,
+          "stop" : 1644822881832,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '登录接口', 'requests': {'method': 'post', 'url': 'http://47.107.116.139/phpwind/index.php?m=u&c=login&a=dorun', 'data': {'username': 'msxy', 'password': 'msxy', 'csrf——token': 'csrf_token', 'backurl': 'http://47.107.116.139/phpwind', 'invite': ''}, 'headers': {'Accept': 'applcation/json.text/javascript,/;q=0.01', 'X-Requestsed-With': 'XMLHttpRequests'}, 'validate': [{'eq': {'state:sucess': None}}]}}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo1]",
+        "uid" : "5daf82ef9c6b5e56",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644822881283,
+          "stop" : 1644822881398,
+          "duration" : 115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': None, 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_login",
+        "uid" : "5f3de6db0356d539",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644822881588,
+          "stop" : 1644822881827,
+          "duration" : 239
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_edit_flag[caseinfo0]",
+        "uid" : "b372fe99e0d5e4f8",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644822881535,
+          "stop" : 1644822881536,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '编辑标签接口', 'requests': {'method': 'post', 'url': 'https://api.weixin.qq.com/cgi-bin/tags/update', 'data': {'tag': {'id': 134, 'name': '广东人'}}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo2]",
+        "uid" : "ca2d21fee7fd98ba",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644822881404,
+          "stop" : 1644822881491,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': None, 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_02_fengxing",
+        "uid" : "378eaa371ffb3c06",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644822884908,
+          "stop" : 1644822887910,
+          "duration" : 3002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo0]",
+        "uid" : "ef054bd2e4890f8b",
+        "parentUid" : "170d5f41356a5888f781b8e12a043cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644822881169,
+          "stop" : 1644822881277,
+          "duration" : 108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      } ],
+      "uid" : "170d5f41356a5888f781b8e12a043cfe"
+    }, {
+      "name" : "13248-MainThread",
+      "children" : [ {
+        "name" : "test_01_get_token1[caseinfo0]",
+        "uid" : "4ca88fd5b5df4b75",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696759363,
+          "stop" : 1647696760431,
+          "duration" : 1068
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_login",
+        "uid" : "ca48bd34ae79c0c1",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696762032,
+          "stop" : 1647696762265,
+          "duration" : 233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_login[caseinfo0]",
+        "uid" : "8551e8b80b0c29fc",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647696762270,
+          "stop" : 1647696762271,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '登录接口', 'requests': {'method': 'post', 'url': 'http://47.107.116.139/phpwind/index.php?m=u&c=login&a=dorun', 'data': {'username': 'msxy', 'password': 'msxy', 'csrf——token': 'csrf_token', 'backurl': 'http://47.107.116.139/phpwind', 'invite': ''}, 'headers': {'Accept': 'applcation/json.text/javascript,/;q=0.01', 'X-Requestsed-With': 'XMLHttpRequests'}, 'validate': [{'eq': {'state:sucess': None}}]}}" ]
+      }, {
+        "name" : "test_01_baili",
+        "uid" : "608be37b61f2b51a",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696762331,
+          "stop" : 1647696765331,
+          "duration" : 3000
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_fengxing",
+        "uid" : "80e9daa58cf158da",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696765335,
+          "stop" : 1647696768335,
+          "duration" : 3000
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_edit_flag[caseinfo0]",
+        "uid" : "fc621661a6446e1e",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647696761956,
+          "stop" : 1647696761956,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '编辑标签接口', 'requests': {'method': 'post', 'url': 'https://api.weixin.qq.com/cgi-bin/tags/update', 'data': {'tag': {'id': 134, 'name': '广东人'}}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo1]",
+        "uid" : "32eeee0f729141a0",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696760478,
+          "stop" : 1647696761632,
+          "duration" : 1154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': None, 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo2]",
+        "uid" : "6094e918008d61b5",
+        "parentUid" : "c0c8bef7a0be053e12dc1cad7db34cc2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696761677,
+          "stop" : 1647696761909,
+          "duration" : 232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': None, 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      } ],
+      "uid" : "c0c8bef7a0be053e12dc1cad7db34cc2"
+    }, {
+      "name" : "7844-MainThread",
+      "children" : [ {
+        "name" : "test_01_get_token1[caseinfo0]",
+        "uid" : "6240bc6a08b74d03",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696189297,
+          "stop" : 1647696189759,
+          "duration" : 462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_02_edit_flag[caseinfo0]",
+        "uid" : "52b73b23cf36976f",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647696190086,
+          "stop" : 1647696190087,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '编辑标签接口', 'requests': {'method': 'post', 'url': 'https://api.weixin.qq.com/cgi-bin/tags/update', 'data': {'tag': {'id': 134, 'name': '广东人'}}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_baili",
+        "uid" : "4af7815fb7441cea",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696190628,
+          "stop" : 1647696193628,
+          "duration" : 3000
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_login",
+        "uid" : "2f73830734f7280",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696190184,
+          "stop" : 1647696190606,
+          "duration" : 422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_login[caseinfo0]",
+        "uid" : "345458d93d221515",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647696190611,
+          "stop" : 1647696190611,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '登录接口', 'requests': {'method': 'post', 'url': 'http://47.107.116.139/phpwind/index.php?m=u&c=login&a=dorun', 'data': {'username': 'msxy', 'password': 'msxy', 'csrf——token': 'csrf_token', 'backurl': 'http://47.107.116.139/phpwind', 'invite': ''}, 'headers': {'Accept': 'applcation/json.text/javascript,/;q=0.01', 'X-Requestsed-With': 'XMLHttpRequests'}, 'validate': [{'eq': {'state:sucess': None}}]}}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo1]",
+        "uid" : "85b139a08e8bf886",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696189766,
+          "stop" : 1647696189911,
+          "duration" : 145
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': None, 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_02_fengxing",
+        "uid" : "9434feda528d6fc3",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696193634,
+          "stop" : 1647696196635,
+          "duration" : 3001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo2]",
+        "uid" : "19e2f3e5616f007c",
+        "parentUid" : "28293adebe17ca77dfe6e221d7b69189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647696189957,
+          "stop" : 1647696190078,
+          "duration" : 121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': None, 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      } ],
+      "uid" : "28293adebe17ca77dfe6e221d7b69189"
+    }, {
+      "name" : "25784-MainThread",
+      "children" : [ {
+        "name" : "test_01_login",
+        "uid" : "63d9c61e0b0bc504",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644386037469,
+          "stop" : 1644386037594,
+          "duration" : 125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_fengxing",
+        "uid" : "46e2f796ac4b3f9c",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644386040659,
+          "stop" : 1644386043659,
+          "duration" : 3000
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_edit_flag[caseinfo0]",
+        "uid" : "40e95f06e4f72b9b",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644386037442,
+          "stop" : 1644386037442,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '编辑标签接口', 'requests': {'method': 'post', 'url': 'https://api.weixin.qq.com/cgi-bin/tags/update', 'data': {'tag': {'id': 134, 'name': '广东人'}}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_02_login[caseinfo0]",
+        "uid" : "b0059ebe815cd467",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644386037657,
+          "stop" : 1644386037657,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '登录接口', 'requests': {'method': 'post', 'url': 'http://47.107.116.139/phpwind/index.php?m=u&c=login&a=dorun', 'data': {'username': 'msxy', 'password': 'msxy', 'csrf——token': 'csrf_token', 'backurl': 'http://47.107.116.139/phpwind', 'invite': ''}, 'headers': {'Accept': 'applcation/json.text/javascript,/;q=0.01', 'X-Requestsed-With': 'XMLHttpRequests'}, 'validate': [{'eq': {'state:sucess': None}}]}}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo1]",
+        "uid" : "bfdb5a645079b205",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644386036968,
+          "stop" : 1644386037093,
+          "duration" : 125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': None, 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_baili",
+        "uid" : "f08f2b84a2553420",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644386037657,
+          "stop" : 1644386040659,
+          "duration" : 3002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo2]",
+        "uid" : "7d55b6e9e5491315",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644386037109,
+          "stop" : 1644386037390,
+          "duration" : 281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': None, 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_01_get_token1[caseinfo0]",
+        "uid" : "72b9c7be9bdfeeaa",
+        "parentUid" : "3367398891d0cc1848d97661ba8364dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644386036843,
+          "stop" : 1644386036968,
+          "duration" : 125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6bllb3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      } ],
+      "uid" : "3367398891d0cc1848d97661ba8364dc"
+    } ],
+    "uid" : "b88440c91f817375e04fd3d957ed53a5"
+  } ]
+}

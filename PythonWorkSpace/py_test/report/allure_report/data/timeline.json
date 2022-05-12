@@ -1,0 +1,527 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "FXDN-20170826XB",
+    "children" : [ {
+      "name" : "9588-MainThread",
+      "children" : [ {
+        "name" : "test_b",
+        "uid" : "a5432d24034738b3",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796384,
+          "stop" : 1639446796385,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_three",
+        "uid" : "446bb31c40f510de",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796376,
+          "stop" : 1639446796377,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_three",
+        "uid" : "abf1277a3eb6fabe",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796363,
+          "stop" : 1639446796363,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pass1",
+        "uid" : "9a3de421a12c2c34",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796424,
+          "stop" : 1639446796425,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pass2",
+        "uid" : "93b4b9db1ba59f71",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796430,
+          "stop" : 1639446796431,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case4]",
+        "uid" : "a7a4b48f81edc1ea",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796417,
+          "stop" : 1639446796418,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"\"}', 'exp': \"{'code': 1002, 'msg': '密码不能为空'}\"}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "442d2a7bc5bfd4e0",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796396,
+          "stop" : 1639446796397,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu1\", \"password\": \"a123456\"}', 'exp': \"{'code': 1003, 'msg': '用户名或密码错误'}\"}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "c775f954c4e9e56f",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796410,
+          "stop" : 1639446796411,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a1234567\"}', 'exp': \"{'code': 1003, 'msg': '用户名或密码错误'}\"}" ]
+      }, {
+        "name" : "test_one",
+        "uid" : "b8e63d4f55752502",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796329,
+          "stop" : 1639446796329,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "d4ba11f2ceaa9e6f",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796390,
+          "stop" : 1639446796390,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a123456\"}', 'exp': \"{'code': 9999, 'msg': '登录成功'}\"}" ]
+      }, {
+        "name" : "test_two",
+        "uid" : "67a41f78bbb2de6d",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1639446796370,
+          "stop" : 1639446796370,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "b70df7b3793f4d92",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796380,
+          "stop" : 1639446796381,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "965455c45ac52445",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639446796404,
+          "stop" : 1639446796404,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"\", \"password\": \"a123456\"}', 'exp': \"{'code': 1001, 'msg': '用户名不能为空'}\"}" ]
+      }, {
+        "name" : "test_two",
+        "uid" : "605e860a1a8b20b8",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1639446796332,
+          "stop" : 1639446796333,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_one",
+        "uid" : "82d8378cf54a299e",
+        "parentUid" : "aa5a6fe31d489d4705186b4681e86c7a",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1639446796366,
+          "stop" : 1639446796366,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa5a6fe31d489d4705186b4681e86c7a"
+    }, {
+      "name" : "9876-MainThread",
+      "children" : [ {
+        "name" : "test_login[case1]",
+        "uid" : "8dda72931b70d04e",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439033,
+          "stop" : 1639445439034,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu1\", \"password\": \"a123456\"}', 'exp': \"{'code': 1003, 'msg': '用户名或密码错误'}\"}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "8bb6204bd61be5b8",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439024,
+          "stop" : 1639445439025,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a123456\"}', 'exp': \"{'code': 9999, 'msg': '登录成功'}\"}" ]
+      }, {
+        "name" : "test_pass1",
+        "uid" : "6e1019150e062c9e",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439068,
+          "stop" : 1639445439069,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_two",
+        "uid" : "a9b189eccb883030",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1639445438932,
+          "stop" : 1639445438933,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_three",
+        "uid" : "20ffeb99a803fc20",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439003,
+          "stop" : 1639445439003,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "9651293f6811757e",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439042,
+          "stop" : 1639445439042,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"\", \"password\": \"a123456\"}', 'exp': \"{'code': 1001, 'msg': '用户名不能为空'}\"}" ]
+      }, {
+        "name" : "test_three",
+        "uid" : "484aa26b558ecafa",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445438981,
+          "stop" : 1639445438982,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "205ca107cbe0418a",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439014,
+          "stop" : 1639445439015,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "6c15df9fab280938",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439050,
+          "stop" : 1639445439051,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"a1234567\"}', 'exp': \"{'code': 1003, 'msg': '用户名或密码错误'}\"}" ]
+      }, {
+        "name" : "test_two",
+        "uid" : "323b978fa12db1fc",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1639445438993,
+          "stop" : 1639445438993,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_one",
+        "uid" : "2000e26577eeca6",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1639445438985,
+          "stop" : 1639445438985,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case4]",
+        "uid" : "dc02e0dfec45bb0",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439058,
+          "stop" : 1639445439059,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': '{\"username\": \"xiaoniu\", \"password\": \"\"}', 'exp': \"{'code': 1002, 'msg': '密码不能为空'}\"}" ]
+      }, {
+        "name" : "test_a",
+        "uid" : "1324440f76b6e9e1",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439009,
+          "stop" : 1639445439010,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pass2",
+        "uid" : "17a110cc63579d40",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445439077,
+          "stop" : 1639445439078,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_one",
+        "uid" : "c10ae8cefc78df8f",
+        "parentUid" : "d16c734a817dfd8ffeea8e837f79461d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639445438925,
+          "stop" : 1639445438926,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d16c734a817dfd8ffeea8e837f79461d"
+    } ],
+    "uid" : "cffed6e6991172afbb4aba1dd7282ed5"
+  } ]
+}

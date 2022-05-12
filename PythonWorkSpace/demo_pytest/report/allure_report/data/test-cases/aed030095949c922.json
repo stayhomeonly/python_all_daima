@@ -1,0 +1,74 @@
+{
+  "uid" : "aed030095949c922",
+  "name" : "test_02_fengxing",
+  "fullName" : "testcases.test_mashang.TestMashang#test_02_fengxing",
+  "historyId" : "4652a73707c19952dedc717c703c283d",
+  "time" : {
+    "start" : 1644324200318,
+    "stop" : 1644324203331,
+    "duration" : 3013
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1160304fe48df1ef",
+      "name" : "stdout",
+      "source" : "1160304fe48df1ef.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_mashang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMashang"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-0G99AQ7G"
+  }, {
+    "name" : "thread",
+    "value" : "16260-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_mashang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aed030095949c922.json",
+  "parameterValues" : [ ]
+}

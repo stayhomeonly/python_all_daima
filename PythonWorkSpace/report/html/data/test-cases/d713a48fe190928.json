@@ -1,0 +1,71 @@
+{
+  "uid" : "d713a48fe190928",
+  "name" : "test_01_get_token1[caseinfo2]",
+  "fullName" : "demo_pytest.testcases.test_api1.Testapi#test_01_get_token1",
+  "historyId" : "14a1fa63b91c1e821e182eac109653f4",
+  "time" : {
+    "start" : 1643361150351,
+    "stop" : 1643361150460,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "demo_pytest.testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_api1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testapi"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-0G99AQ7G"
+  }, {
+    "name" : "thread",
+    "value" : "4692-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "demo_pytest.testcases.test_api1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "caseinfo",
+    "value" : "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': None, 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "38e5e27337953de4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643361026805,
+        "stop" : 1643361026874,
+        "duration" : 69
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d713a48fe190928.json",
+  "parameterValues" : [ "{'name': '获取接口统一鉴权码token接口', 'requests': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': None, 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+}

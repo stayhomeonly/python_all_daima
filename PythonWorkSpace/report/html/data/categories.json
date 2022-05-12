@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: can only concatenate str (not \"NoneType\") to str",
+      "children" : [ {
+        "name" : "test_02_edit_flag[caseinfo0]",
+        "uid" : "c40a73cd1cf01d02",
+        "parentUid" : "7ae55e489197044a8850b123498a77e4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1643361150469,
+          "stop" : 1643361150469,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '编辑标签接口', 'requests': {'method': 'post', 'url': 'https://api.weixin.qq.com/cgi-bin/tags/update', 'data': {'tag': {'id': 134, 'name': '广东人'}}}, 'validate': 'None'}" ]
+      } ],
+      "uid" : "7ae55e489197044a8850b123498a77e4"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

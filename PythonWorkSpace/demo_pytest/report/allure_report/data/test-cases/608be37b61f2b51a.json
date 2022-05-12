@@ -1,0 +1,92 @@
+{
+  "uid" : "608be37b61f2b51a",
+  "name" : "test_01_baili",
+  "fullName" : "testcases.test_mashang.TestMashang#test_01_baili",
+  "historyId" : "b4b05210f038d361728138a92fa4e2aa",
+  "time" : {
+    "start" : 1647696762331,
+    "stop" : 1647696765331,
+    "duration" : 3000
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_mashang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMashang"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-0G99AQ7G"
+  }, {
+    "name" : "thread",
+    "value" : "13248-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_mashang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4af7815fb7441cea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647696190628,
+        "stop" : 1647696193628,
+        "duration" : 3000
+      }
+    }, {
+      "uid" : "af6b9fa4dd97b938",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644822881889,
+        "stop" : 1644822884903,
+        "duration" : 3014
+      }
+    }, {
+      "uid" : "f08f2b84a2553420",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644386037657,
+        "stop" : 1644386040659,
+        "duration" : 3002
+      }
+    }, {
+      "uid" : "25b7791c410af32e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644324197307,
+        "stop" : 1644324200311,
+        "duration" : 3004
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "608be37b61f2b51a.json",
+  "parameterValues" : [ ]
+}

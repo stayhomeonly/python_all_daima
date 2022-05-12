@@ -1,0 +1,74 @@
+{
+  "uid" : "25b7791c410af32e",
+  "name" : "test_01_baili",
+  "fullName" : "testcases.test_mashang.TestMashang#test_01_baili",
+  "historyId" : "b4b05210f038d361728138a92fa4e2aa",
+  "time" : {
+    "start" : 1644324197307,
+    "stop" : 1644324200311,
+    "duration" : 3004
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5f6cdd1e1d93d534",
+      "name" : "stdout",
+      "source" : "5f6cdd1e1d93d534.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_mashang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMashang"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-0G99AQ7G"
+  }, {
+    "name" : "thread",
+    "value" : "16260-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_mashang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25b7791c410af32e.json",
+  "parameterValues" : [ ]
+}

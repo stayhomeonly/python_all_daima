@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Jan 28 17:12:30 CST 2022","Fri Jan 28 17:12:30 CST 2022","0","demo_pytest.testcases","test_api1","Testapi","","","test_02_edit_flag[caseinfo0]",""
+"passed","Fri Jan 28 17:12:30 CST 2022","Fri Jan 28 17:12:33 CST 2022","3014","demo_pytest.testcases","test_mashang","TestMashang","","","test_01_baili",""
+"passed","Fri Jan 28 17:12:30 CST 2022","Fri Jan 28 17:12:30 CST 2022","69","demo_pytest.testcases","test_api1","Testapi","","","test_01_get_token1[caseinfo1]",""
+"passed","Fri Jan 28 17:12:30 CST 2022","Fri Jan 28 17:12:30 CST 2022","109","demo_pytest.testcases","test_api1","Testapi","","","test_01_get_token1[caseinfo2]",""
+"passed","Fri Jan 28 17:12:33 CST 2022","Fri Jan 28 17:12:36 CST 2022","3003","demo_pytest.testcases","test_mashang","TestMashang","","","test_02_fengxing",""
+"passed","Fri Jan 28 17:12:30 CST 2022","Fri Jan 28 17:12:30 CST 2022","92","demo_pytest.testcases","test_api1","Testapi","","","test_01_get_token1[caseinfo0]",""

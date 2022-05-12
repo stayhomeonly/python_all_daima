@@ -1,0 +1,96 @@
+{
+  "uid" : "965455c45ac52445",
+  "name" : "test_login[case2]",
+  "fullName" : "test_py_03#test_login",
+  "historyId" : "7d0b4654d147f7532beae25a888e2c43",
+  "time" : {
+    "start" : 1639446796404,
+    "stop" : 1639446796404,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "class_scope",
+    "time" : {
+      "start" : 1639446796402,
+      "stop" : 1639446796402,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "311caa05e0e79974",
+      "name" : "stdout",
+      "source" : "311caa05e0e79974.txt",
+      "type" : "text/plain",
+      "size" : 113
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_py_03"
+  }, {
+    "name" : "host",
+    "value" : "FXDN-20170826XB"
+  }, {
+    "name" : "thread",
+    "value" : "9588-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_py_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'case_data': '{\"username\": \"\", \"password\": \"a123456\"}', 'exp': \"{'code': 1001, 'msg': '用户名不能为空'}\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9651293f6811757e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639445439042,
+        "stop" : 1639445439042,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "965455c45ac52445.json",
+  "parameterValues" : [ "{'case_data': '{\"username\": \"\", \"password\": \"a123456\"}', 'exp': \"{'code': 1001, 'msg': '用户名不能为空'}\"}" ]
+}

@@ -1,0 +1,3 @@
+-1-class-1-
+case_data:{"username": "xiaoniu", "password": ""}
+exp:{'code': 1002, 'msg': '密码不能为空'}
