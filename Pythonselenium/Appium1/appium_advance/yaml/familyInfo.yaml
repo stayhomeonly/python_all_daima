@@ -1,0 +1,10 @@
+name: Tom Smith  # 冒号后面一定要加空格
+age: 37
+spouse:
+  name: Jane Smith
+  age: 25
+children:
+  - name: Jimmy Smith  # - 代表列表
+    age: 15
+  - name: Jenny Smith
+    age: 12

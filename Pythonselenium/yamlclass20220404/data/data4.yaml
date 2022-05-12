@@ -1,0 +1,9 @@
+-
+  method: post
+  url: http://url/api01
+  params:
+    id: 1
+    str:
+    name:
+  headers:
+    ContentType: txt/json

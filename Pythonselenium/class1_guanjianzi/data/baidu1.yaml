@@ -1,0 +1,35 @@
+- # 代表是一个大字典
+  type_: Chrome
+  url: http://www.baidu.com
+  input:
+    name: id
+    value: kw
+    txt: 虚竹
+  button:
+    name: id
+    value: su
+  time_: 3
+
+- # 代表是一个大字典
+  type_: Chrome
+  url: http://www.baidu.com
+  input:
+    name: id
+    value: kw
+    txt: 虚竹
+  button:
+    name: id
+    value: su
+  time_: 3
+
+- # 代表是一个大字典
+  type_: Chrome
+  url: http://www.baidu.com
+  input:
+    name: id
+    value: kw
+    txt: 虚竹
+  button:
+    name: id
+    value: su
+  time_: 3

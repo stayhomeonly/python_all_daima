@@ -1,0 +1,7 @@
+1651575705366	geckodriver	INFO	Listening on 127.0.0.1:59354
+1651575708433	mozrunner::runner	INFO	Running command: "D:\\FireBox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\FENG\\AppData\\Local\\Temp\\rust_mozprofileH9oh3G"
+1651575795506	geckodriver	INFO	Listening on 127.0.0.1:59452
+1651575798572	mozrunner::runner	INFO	Running command: "D:\\FireBox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\FENG\\AppData\\Local\\Temp\\rust_mozprofilei2NNLP"
+1651576876658	geckodriver	INFO	Listening on 127.0.0.1:64379
+1651576879730	mozrunner::runner	INFO	Running command: "D:\\FireBox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\FENG\\AppData\\Local\\Temp\\rust_mozprofilebJ37qA"
+1651576884465	geckodriver	INFO	Listening on 127.0.0.1:64395

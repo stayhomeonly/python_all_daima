@@ -1,0 +1,8 @@
+dict:   #多层字典嵌套
+  name: 虚竹  # 字典类型
+  age: 18
+  sex: 男
+dict2:
+  name: 天下  # 字典类型
+  age: 19
+  sex: 男

@@ -1,0 +1,51 @@
+INFO:root:hello 51zxw
+WARNING:root:warning info
+ERROR:root:error info
+CRITICAL:root:critical info
+INFO:root:hello 51zxw
+WARNING:root:warning info
+ERROR:root:error info
+CRITICAL:root:critical info
+2022-05-11 17:15:54,545 logging_test.py[line:30 INFO hello 51zxw]
+2022-05-11 17:15:54,545 logging_test.py[line:31 WARNING warning info]
+2022-05-11 17:15:54,545 logging_test.py[line:32 ERROR error info]
+2022-05-11 17:15:54,545 logging_test.py[line:33 CRITICAL critical info]
+2022-05-11 17:31:41,107 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 17:31:54,264 kyb_logger.py[line:43 INFO check cacelBtn ]
+2022-05-11 17:33:14,997 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 17:33:26,501 kyb_logger.py[line:43 INFO check cacelBtn ]
+2022-05-11 17:55:21,197 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 17:55:35,109 kyb_logger.py[line:43 INFO check cacelBtn ]
+2022-05-11 17:56:21,625 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 17:56:36,050 kyb_logger.py[line:43 INFO check cacelBtn ]
+2022-05-11 17:56:41,970 kyb_logger.py[line:57 INFO check skipBtn]
+2022-05-11 17:57:30,934 kyb_logger.py[line:62 INFO no skipBtn]
+2022-05-11 17:57:57,418 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 17:58:11,835 kyb_logger.py[line:43 INFO check cacelBtn]
+2022-05-11 17:58:17,811 kyb_logger.py[line:57 INFO check skipBtn]
+2022-05-11 17:58:54,523 kyb_logger.py[line:62 INFO no skipBtn]
+2022-05-11 17:58:54,523 kyb_logger.py[line:71 INFO check myself]
+2022-05-11 17:58:55,007 kyb_logger.py[line:76 INFO no button_self]
+2022-05-11 17:58:55,007 kyb_logger.py[line:85 INFO check notlogin]
+2022-05-11 17:58:55,042 kyb_logger.py[line:89 INFO no notlogin]
+2022-05-11 18:07:05,001 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 18:07:18,769 kyb_logger.py[line:43 INFO check cacelBtn]
+2022-05-11 18:07:24,769 kyb_logger.py[line:57 INFO check skipBtn]
+2022-05-11 18:09:06,478 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 18:09:20,487 kyb_logger.py[line:43 INFO check cacelBtn]
+2022-05-11 18:09:26,377 kyb_logger.py[line:57 INFO check skipBtn]
+2022-05-11 18:12:35,984 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 18:12:50,958 kyb_logger.py[line:43 INFO check cacelBtn]
+2022-05-11 18:12:56,865 kyb_logger.py[line:57 INFO check skipBtn]
+2022-05-11 18:13:41,695 kyb_logger.py[line:62 INFO no skipBtn]
+2022-05-11 18:23:54,019 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 18:24:08,194 kyb_logger.py[line:43 INFO check cacelBtn]
+2022-05-11 18:24:11,972 kyb_logger.py[line:57 INFO check skipBtn]
+2022-05-11 18:24:12,093 kyb_logger.py[line:62 INFO no skipBtn]
+2022-05-11 18:24:44,489 kyb_logger.py[line:38 INFO start app....]
+2022-05-11 18:24:58,102 kyb_logger.py[line:43 INFO check cacelBtn]
+2022-05-11 18:25:03,945 kyb_logger.py[line:57 INFO check skipBtn]
+2022-05-11 18:25:31,016 kyb_logger.py[line:62 INFO no skipBtn]
+2022-05-11 18:28:49,641 kyb_logger.py[line:39 INFO start app....]
+2022-05-11 18:29:10,654 kyb_logger.py[line:44 INFO check cacelBtn]
+2022-05-11 18:29:13,446 kyb_logger.py[line:58 INFO check skipBtn]请1
