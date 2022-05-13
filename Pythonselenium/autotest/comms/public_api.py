@@ -6,8 +6,10 @@
 --------------------------------
 """
 from configparser import ConfigParser
-from autotest.comms.constants import CONF_FILE
+
 import requests
+
+from autotest.comms.constants import CONF_FILE
 
 
 # 从ini文件读取数据
@@ -29,7 +31,7 @@ def replace_data(my_dict, key, value):
     :return: 替换后的字符串类型的字典
     """
     try:
-        dict1 = eval(my_dict)  # 先转换字符串为字典类型
+        dict1 = eval(my_dict)  # 先转换字符串为字典类型 ,加eval是因为excel里面的数据是字符串类型的字典
         dict1[key] = value
         return str(dict1)
     except Exception as e:  # 如果出现异常，就执行except下的代码
@@ -48,3 +50,7 @@ def get_token():
         return res["token"]
     except Exception as e:
         print("获取token值失败!", e)
+
+
+if __name__ == '__main__':
+    print(get_ini_data('mysql', 'host'))
