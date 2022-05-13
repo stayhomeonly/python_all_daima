@@ -16,10 +16,10 @@ def get_logger():
 
     # 第三步:设置输出方向
     # 日志输出到控制台,级别是INFO及INFO级别以上的内容
-    sh1 = logging.StreamHandler()
+    sh1 = logging.StreamHandler() # 文件流的输出
     sh1.setLevel("INFO")  # 级别是DEBUG及DEBUG级别以上的内容
 
-    # 输出 ./info.log文件,并且内容为追加写入,级别是INFO及INFO级别以上的内容
+    # 输出 ./info.log文件,并且内容为追加写入,级别是INFO及INFO级别以上的内容，这种是写到文件中的
     sh2 = logging.FileHandler(filename=INFO_FILE, mode='a', encoding='utf-8')
     sh2.setLevel("INFO")  # 级别是INFO及INFO级别以上的内容
 

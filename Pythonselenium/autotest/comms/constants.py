@@ -22,8 +22,8 @@ CASE_DIR = os.path.join(BASE_DIR, 'testcases')
 
 # 测试数据所在路径
 DATA_DIR = os.path.join(BASE_DIR, 'datas')
-DATA_FILE = os.path.join(DATA_DIR, 'cases.xlsx')
-# print(DATA_FILE)  # D:/PythonWorkSpace/autotest\datas\cases.xlsx
+DATA_FILE = os.path.join(DATA_DIR, 'test_cases.xlsx')
+# print(DATA_FILE)  # D:/PythonWorkSpace/autotest\datas\test_cases.xlsx
 
 # log所在路径
 LOG_DIR = os.path.join(BASE_DIR, 'logs')

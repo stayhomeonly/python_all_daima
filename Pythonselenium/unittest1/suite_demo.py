@@ -19,7 +19,7 @@ suite = unittest.TestSuite()
 
 # 添加测试用例 第二种方法
 cases = [TestLogin('test_6'), TestLogin('test_7')]
-# suite.addTests(cases)
+# suite.addTests(test_cases)
 
 # 添加测试用例 第三种方法
 # test_dir='./'
