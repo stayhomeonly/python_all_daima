@@ -32,6 +32,7 @@ ERROR_FILE = os.path.join(LOG_DIR, 'error.log')
 
 # 配置文件所在路径
 CONF_DIR = os.path.join(BASE_DIR, 'conf')
+print(CONF_DIR)
 CONF_FILE = os.path.join(CONF_DIR, 'config.ini')
 
 # 测试报告所在路径

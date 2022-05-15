@@ -5,30 +5,39 @@
 #@Content:
 
 """
+from configparser import ConfigParser
 
 import yaml
 
+from nuoya.comms.constants import CONF_FILE
+
 
 def read_data(file_name):
-    file = open(file_name, 'r', encoding='utf-8')
-    yaml_data = yaml.load(file, Loader=yaml.FullLoader)
-    return yaml_data
+    with open(file_name, 'r', encoding='utf-8') as f:
+        yaml_data = yaml.load(f, Loader=yaml.FullLoader)
+        return yaml_data
 
 
 def get_sceneid():
+    with open('../yaml/params.yaml', 'r', encoding='utf-8') as f:
 
-    file = open('../yaml/sceneid.yaml','r', encoding='utf-8')
-    data = yaml.load(file, Loader=yaml.FullLoader)
-    sceneId = data['sceneId']
-    groupno = data['groupno']
-    url = data['url']
+        data = yaml.load(f, Loader=yaml.FullLoader)
+        return data[0]["sceneId"]
 
-    return sceneId, groupno, url
+
+# 从ini文件读取数据
+
+
+def get_ini_data(section, option):
+    try:
+        cnp = ConfigParser()  # 填写核心代码
+        cnp.read(CONF_FILE, encoding='utf-8')
+        return cnp.get(section, option)
+    except Exception as e:
+        print('从ini文件读取测试数据失败!', e)
 
 
 if __name__ == '__main__':
-    print(read_data('../yaml/params.yaml'))
+    print(read_data('../yaml/get_id.yaml')['url'])
     print(get_sceneid())
-
-
 

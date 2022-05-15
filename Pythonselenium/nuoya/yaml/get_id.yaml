@@ -1,4 +1,3 @@
-#- # 列表嵌套字典
-#  url: http://nmp-gateway-api.t4.test.noahgrouptest.com/remote/api/v1/getId
-url: http://nmp-gateway-api.t4.test.noahgrouptest.com/remote/api/v1/getId
-#这种是字典
+url: http://nmp-gateway-api.t2.test.noahgrouptest.com/remote/api/v1/getId
+url1: http://nmp-gateway-api.t2.test.noahgrouptest.com/remote/api/v1/general/send
+

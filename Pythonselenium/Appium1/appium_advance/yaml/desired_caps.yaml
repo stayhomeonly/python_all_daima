@@ -8,6 +8,8 @@ appPackage: 'com.tal.kaoyan'
 appActivity: 'com.tal.kaoyan.ui.activity.SplashActivity'
 automationName: Uiautomator2
 noReset: false
+unicodeKeyboard: True
+resetKeyboard: True
 
 ip: localhost
 port: 4723
