@@ -46,7 +46,7 @@ class TestSendMessage(unittest.TestCase):
         print(response)
         res = response.json()
         print(res)
-        # self.assertEqual(res['message'], 'ok')
+        self.assertEqual(res['message'], 'ok')
 
         try:
 
@@ -54,8 +54,12 @@ class TestSendMessage(unittest.TestCase):
                                        ("kwargs['messInID']",))
             self.assertEqual(count, 1)
         except AssertionError as e:
+            # 这里也可以加个error日志
             print("查询无此条信息")
             raise e
+
+        # else:
+        #     logging.info()可以加个日志info的
 
 
 if __name__ == '__main__':

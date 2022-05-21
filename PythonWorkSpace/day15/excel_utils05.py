@@ -90,6 +90,7 @@ class ReadExcel:
 if __name__ == "__main__":
     # 获取所有内容
     cases = ReadExcel.read_data_all(r'./cases.xlsx', 'Login')
+    print(cases)
     for case in cases:
         print(case.case_id, case.case_title, case.case_data)
 

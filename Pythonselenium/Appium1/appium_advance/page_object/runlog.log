@@ -5,3 +5,14 @@
 2022-05-15 13:52:14,259 comm_fun.py[line:28] INFO click cancelBtn
 2022-05-15 13:52:14,280 comm_fun.py[line:32] INFO ==========check_skipBtn===========
 2022-05-15 13:52:15,514 comm_fun.py[line:38] INFO click skipBtn
+2022-05-16 16:38:20,415 desired_caps.py[line:45] INFO start app....
+2022-05-16 16:38:46,770 comm_fun.py[line:21] INFO ============check_cancelBtn===============
+2022-05-16 16:38:46,807 comm_fun.py[line:28] INFO click cancelBtn
+2022-05-16 16:38:46,834 comm_fun.py[line:32] INFO ==========check_skipBtn===========
+2022-05-16 16:38:47,883 comm_fun.py[line:38] INFO click skipBtn
+2022-05-16 16:38:47,898 loginView.py[line:24] INFO ========================login_action===========
+2022-05-16 16:38:47,898 loginView.py[line:26] INFO usename is :fengxin1
+2022-05-16 16:38:49,272 loginView.py[line:28] INFO usename is :fengxin1
+2022-05-16 16:38:49,272 loginView.py[line:30] INFO password is :FENG1234
+2022-05-16 16:38:50,326 loginView.py[line:33] INFO click loginBtn
+2022-05-16 16:38:50,849 loginView.py[line:36] INFO login finished

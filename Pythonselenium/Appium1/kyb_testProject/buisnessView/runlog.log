@@ -1,0 +1,126 @@
+2022-05-19 15:50:32,772 desired_caps.py[line:46] INFO start app....
+2022-05-19 15:50:58,756 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 15:50:58,803 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 15:50:58,831 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 15:50:59,884 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 15:50:59,903 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 15:50:59,904 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 15:51:01,310 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 15:51:01,311 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 15:51:02,348 loginView.py[line:46] INFO click loginBtn
+2022-05-19 15:51:03,476 loginView.py[line:49] INFO login finished
+2022-05-19 15:51:03,476 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 15:53:03,994 desired_caps.py[line:46] INFO start app....
+2022-05-19 15:53:26,877 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 15:53:26,918 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 15:53:27,711 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 15:53:27,727 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 15:53:27,750 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 15:53:27,750 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 15:53:29,042 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 15:53:29,043 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 15:53:30,085 loginView.py[line:46] INFO click loginBtn
+2022-05-19 15:53:33,483 loginView.py[line:49] INFO login finished
+2022-05-19 15:53:33,483 loginView.py[line:63] INFO ======check_login_status======
+2022-05-19 15:53:33,483 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 15:53:33,553 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 15:53:34,234 loginView.py[line:75] INFO login success
+2022-05-19 15:53:34,234 loginView.py[line:80] INFO ===logout_action=====
+2022-05-19 15:58:58,059 desired_caps.py[line:46] INFO start app....
+2022-05-19 15:59:36,404 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:00:00,886 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:00:00,935 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:00:00,968 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:00:01,143 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:00:01,739 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 16:00:01,739 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 16:00:23,695 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:00:47,335 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:00:47,367 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:00:47,401 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:00:47,563 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:00:48,162 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 16:00:48,162 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 16:00:49,529 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 16:00:49,529 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 16:00:50,586 loginView.py[line:46] INFO click loginBtn
+2022-05-19 16:00:51,106 loginView.py[line:49] INFO login finished
+2022-05-19 16:00:51,106 loginView.py[line:63] INFO ======check_login_status======
+2022-05-19 16:00:51,106 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 16:00:51,888 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 16:00:53,530 loginView.py[line:75] INFO login success
+2022-05-19 16:00:53,531 loginView.py[line:80] INFO ===logout_action=====
+2022-05-19 16:15:25,174 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:15:48,153 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:15:48,183 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:15:48,200 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:15:48,289 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:15:48,978 loginView.py[line:117] INFO ============login_action==============
+2022-05-19 16:15:48,978 loginView.py[line:118] INFO username is:fengxin1
+2022-05-19 16:16:21,646 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:16:43,259 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:16:43,291 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:16:43,324 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:16:43,481 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:16:44,078 loginView.py[line:118] INFO ============login_action==============
+2022-05-19 16:16:44,078 loginView.py[line:119] INFO username is:fengxin1
+2022-05-19 16:17:21,260 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:17:42,705 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:17:42,726 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:17:42,757 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:17:43,808 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:17:43,830 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:17:43,831 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:17:45,084 loginView.py[line:40] INFO usename is :fengxin1
+2022-05-19 16:17:45,084 loginView.py[line:42] INFO password is :FENG1234
+2022-05-19 16:17:46,122 loginView.py[line:45] INFO click loginBtn
+2022-05-19 16:17:46,626 loginView.py[line:48] INFO login finished
+2022-05-19 16:17:46,626 loginView.py[line:69] INFO ======check_login_status======
+2022-05-19 16:17:46,626 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 16:17:49,324 loginView.py[line:52] INFO ======check_account_alert=====
+2022-05-19 16:17:50,051 loginView.py[line:81] INFO login success
+2022-05-19 16:17:50,051 loginView.py[line:62] INFO ===logout_action=====
+2022-05-19 16:25:34,153 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:25:54,180 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:25:54,206 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:25:54,980 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:25:54,992 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:25:55,007 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:25:55,007 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:26:10,759 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:26:32,401 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:26:32,426 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:26:32,459 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:26:33,511 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:26:33,528 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:26:33,528 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:27:21,531 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:27:43,370 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:27:43,411 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:27:43,440 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:27:44,503 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:27:44,523 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:27:44,523 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:28:36,084 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:28:57,616 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:28:57,639 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:28:57,657 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:28:57,711 comm_fun.py[line:41] INFO skipBtn element is not found!
+2022-05-19 16:28:57,711 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:28:57,711 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:30:01,522 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:30:24,611 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:30:24,641 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:30:24,661 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:30:25,394 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:30:25,411 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:30:25,411 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:30:27,979 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 16:30:27,979 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 16:30:29,028 loginView.py[line:46] INFO click loginBtn
+2022-05-19 16:30:29,550 loginView.py[line:49] INFO login finished
+2022-05-19 16:30:29,550 loginView.py[line:70] INFO ======check_login_status======
+2022-05-19 16:30:29,550 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 16:30:32,731 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 16:30:33,414 loginView.py[line:82] INFO login success
+2022-05-19 16:30:33,414 loginView.py[line:63] INFO ===logout_action=====

@@ -1,6 +1,6 @@
 """
 =========================
-File Name:python_basic02.py
+File Name:python_basic_02.py
 Author:冯鑫
 Date:2021/11/15-11:18
 ==========================

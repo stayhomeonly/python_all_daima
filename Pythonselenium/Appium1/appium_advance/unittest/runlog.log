@@ -1,0 +1,28 @@
+2022-05-16 16:59:49,538 myunit.py[line:17] INFO ======setup=========
+2022-05-16 16:59:49,540 desired_caps.py[line:45] INFO start app....
+2022-05-16 17:00:12,271 test_login.py[line:16] INFO =======test_login_zxw2018=========
+2022-05-16 17:00:12,271 comm_fun.py[line:21] INFO ============check_cancelBtn===============
+2022-05-16 17:00:12,292 comm_fun.py[line:28] INFO click cancelBtn
+2022-05-16 17:00:12,979 comm_fun.py[line:32] INFO ==========check_skipBtn===========
+2022-05-16 17:00:12,995 comm_fun.py[line:38] INFO click skipBtn
+2022-05-16 17:00:13,010 loginView.py[line:24] INFO ========================login_action===========
+2022-05-16 17:00:13,010 loginView.py[line:26] INFO usename is :fengxin1
+2022-05-16 17:00:14,389 loginView.py[line:28] INFO usename is :fengxin1
+2022-05-16 17:00:14,390 loginView.py[line:30] INFO password is :FENG1234
+2022-05-16 17:00:15,425 loginView.py[line:33] INFO click loginBtn
+2022-05-16 17:00:15,944 loginView.py[line:36] INFO login finished
+2022-05-16 17:00:15,944 myunit.py[line:21] INFO =====teardown========
+2022-05-16 20:19:01,297 myunit.py[line:17] INFO ======setup=========
+2022-05-16 20:19:01,299 desired_caps.py[line:45] INFO start app....
+2022-05-16 20:19:24,443 test_login.py[line:17] INFO =======test_login_zxw2018=========
+2022-05-16 20:19:24,443 comm_fun.py[line:21] INFO ============check_cancelBtn===============
+2022-05-16 20:19:24,465 comm_fun.py[line:28] INFO click cancelBtn
+2022-05-16 20:19:24,487 comm_fun.py[line:32] INFO ==========check_skipBtn===========
+2022-05-16 20:19:25,215 comm_fun.py[line:38] INFO click skipBtn
+2022-05-16 20:19:25,238 loginView.py[line:24] INFO ========================login_action===========
+2022-05-16 20:19:25,239 loginView.py[line:26] INFO usename is :fengxin1
+2022-05-16 20:19:26,623 loginView.py[line:28] INFO usename is :fengxin1
+2022-05-16 20:19:26,623 loginView.py[line:30] INFO password is :FENG1234
+2022-05-16 20:19:27,657 loginView.py[line:33] INFO click loginBtn
+2022-05-16 20:19:28,180 loginView.py[line:36] INFO login finished
+2022-05-16 20:19:28,181 myunit.py[line:21] INFO =====teardown========
